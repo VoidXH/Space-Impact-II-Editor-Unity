@@ -1,4 +1,4 @@
-# Space-Impact-II-Editor-Unity
+# Space Impact II Editor for Unity
 Unity version of the editor for Space Impact II.
 
 # Licence
